@@ -10,10 +10,10 @@ ul li{
     color: #ffffff;
     font-size: 20px;
     font-weight: bold;
+    transition: background-color 0.5s ease;
 }
 
 ul li:hover{
     background-color: #ffa357;
-    transition: all 0.5s ease;
     cursor: pointer;
 }
